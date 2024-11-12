@@ -3,14 +3,22 @@ Analyze the World University Rankings to uncover insights into the factors that 
 
 1. Database Setup
 Import the dataset into your SQL environment.
+
 Set up the table with appropriate columns (Rank, University, Country, Teaching, Research, etc.).
 
 2. Data Exploration Using SQL
+
 Explore the structure of the dataset using basic SQL queries (e.g., SELECT, COUNT(), GROUP BY, etc.).
 
 3. Analysis Questions
 
 i. Top Universities by Overall Score
+
 ii. Top Countries by Research Performance
+
 iii. Impact of International Outlook on Rankings
+
 iv. Correlation Between Industry Income and Rankings
+
+4. Conclusion
+Summarize the key insights and trends found from your SQL analysis.
